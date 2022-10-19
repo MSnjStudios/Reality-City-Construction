@@ -1,0 +1,8 @@
+{
+  "parent": "tcwm:custom/sign1",
+  "textures": {
+    "all": "tcwm:blocks/expwy_start",
+    "particle": "tcwm:blocks/expwy_start",
+    "missing": "tcwm:blocks/expwy_start"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tcwm:blocks/oip-c",
+    "particle": "tcwm:blocks/oip-c"
+  }
+}

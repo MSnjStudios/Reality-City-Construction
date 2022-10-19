@@ -1,0 +1,9 @@
+{
+  "parent": "tcwm:custom/pingtai",
+  "textures": {
+    "all": "tcwm:blocks/high",
+    "particle": "tcwm:blocks/high",
+    "0": "tcwm:blocks/high",
+    "1": "tcwm:blocks/smal"
+  }
+}

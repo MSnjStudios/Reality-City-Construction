@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tcwm:block/marble_ore_block"
+    }
+  }
+}

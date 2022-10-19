@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tcwm:block/peoplemangdaoblack"
+    },
+    "facing=east": {
+      "model": "tcwm:block/peoplemangdaoblack",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tcwm:block/peoplemangdaoblack",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tcwm:block/peoplemangdaoblack",
+      "y": 270
+    }
+  }
+}

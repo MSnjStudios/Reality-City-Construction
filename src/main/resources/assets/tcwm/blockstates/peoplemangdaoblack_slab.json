@@ -1,0 +1,14 @@
+{
+  "variants": {
+      "type=bottom": {
+        "model": "tcwm:block/peoplemangdaoblackslab"
+      },
+      "type=top": {
+        "model": "tcwm:block/peoplemangdaoblackslab_top",
+        "y": 270
+      },
+      "type=double": {
+        "model": "tcwm:block/peoplemangdaoblackslab_full"
+      }
+  }
+}

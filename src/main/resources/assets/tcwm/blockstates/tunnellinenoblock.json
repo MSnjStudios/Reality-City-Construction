@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tcwm:block/tunnellinenoblock"
+    },
+    "facing=east": {
+      "model": "tcwm:block/tunnellinenoblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tcwm:block/tunnellinenoblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tcwm:block/tunnellinenoblock",
+      "y": 270
+    }
+  }
+}

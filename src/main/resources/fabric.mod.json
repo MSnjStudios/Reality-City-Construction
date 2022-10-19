@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "tcwm",
+  "version": "1.17.1-fabric-1.0.0-unofficial-5",
+  "name": "Reality_City_Construction",
+  "description": "Reality_City_Construction",
+  "authors": [
+    "MSnj_Studios"
+  ],
+  "contact": {
+    "website": "https://www.rccmod.top",
+    "repo": "Reality_City _onstruction"
+  },
+  "license": "MIT",
+  "icon": "assets/tcwm/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "msnj.tcwm.client.TcwmClient"
+    ],
+      "server": [
+        "msnj.tcwm.server.TcwmServer"
+      ],
+    "main": [
+      "msnj.tcwm.Tcwm"
+    ]
+  },
+  "mixins": [
+    "tcwm.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.1",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+      "mtr": "*"
+  }
+}
